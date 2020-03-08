@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Caculator</string>
+    <string name="expressionDefault">请输入算式</string>
+</resources>
